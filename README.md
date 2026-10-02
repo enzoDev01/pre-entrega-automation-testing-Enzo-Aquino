@@ -12,7 +12,7 @@ Este proyecto implementa la suite de pruebas automatizadas para la aplicación w
 
 ## Estructura del Repositorio
 ```
-pre-entrega-automation-testing-[nombre-apellido]/
+pre-entrega-automation-testing-Enzo-Aquino/
 │
 ├── tests/
 │   └── test_saucedemo.py     # Casos de prueba automatizados (Login, Catálogo, Carrito)
@@ -27,8 +27,8 @@ pre-entrega-automation-testing-[nombre-apellido]/
 ## Instalación y Configuración
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/pre-entrega-automation-testing-[nombre-apellido].git
-   cd pre-entrega-automation-testing-[nombre-apellido]
+   git clone https://github.com/enzoDev01/pre-entrega-automation-testing-Enzo-Aquino.git
+   cd pre-entrega-automation-testing-Enzo-Aquino
    ```
 
 2. Crear y activar entorno virtual:
